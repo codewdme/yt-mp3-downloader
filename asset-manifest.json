@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yt-mp3-downloader/static/css/main.0b2a0807.css",
+    "main.js": "/yt-mp3-downloader/static/js/main.b746747b.js",
+    "index.html": "/yt-mp3-downloader/index.html",
+    "main.0b2a0807.css.map": "/yt-mp3-downloader/static/css/main.0b2a0807.css.map",
+    "main.b746747b.js.map": "/yt-mp3-downloader/static/js/main.b746747b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b2a0807.css",
+    "static/js/main.b746747b.js"
+  ]
+}
